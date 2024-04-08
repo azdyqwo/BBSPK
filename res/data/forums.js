@@ -438,10 +438,10 @@ const db_forums = [
         reference: []
     },
     {
-        title: "末影论坛",
-        url: "https://enderbbs.wavemoe.com",
+        title: "ikunmc",
+        url: "https://www.ikunmc.com",
         state: "up",
-        createdAt: "2023/08/28",
+        createdAt: "2023/08/01",
         updatedAt: "2024/04/06",
         hasICP: "no",
         hasNetSec: "no",
@@ -449,10 +449,10 @@ const db_forums = [
         reference: []
     },
     {
-        title: "ikunmc",
-        url: "https://www.ikunmc.com",
+        title: "末影论坛",
+        url: "https://enderbbs.wavemoe.com",
         state: "up",
-        createdAt: "2023/10/28",
+        createdAt: "2023/08/28",
         updatedAt: "2024/04/06",
         hasICP: "no",
         hasNetSec: "no",
